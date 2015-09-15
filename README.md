@@ -2,7 +2,7 @@
 
 ##### _{Allows a user to create a contact list with multiple addresses for each contact}, {8/14/2015}_
 
-#### By _**{Chris Underwood, Jennifer Bell}**_
+#### By _**{Chris Underwood, Alex Altieri**_
 
 ## Description
 
@@ -25,7 +25,7 @@ css3
 ### Legal
 
 
-Copyright (c) 2015 **_{Chris Underwood, Jennifer Bell}_**
+Copyright (c) 2015 **_{Chris Underwood, Alex Altieri}_**
 
 This software is licensed under the MIT license.
 
